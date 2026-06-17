@@ -18,6 +18,17 @@ charmingly limited) language model right there in the sandbox — no internet, n
 
 ---
 
+## Agent instructions
+
+[`agentinstructions.md`](agentinstructions.md) contains the instructions used in the LinkedIn
+demo. Paste them into the **Instructions** field of your Copilot Studio agent to get the fully
+narrated inference experience: the agent will announce the plan, prove it's running locally,
+describe the model architecture, run a self-test, narrate the inference loop step by step, and
+report real runtime stats — making it unmistakable that everything is happening on-box with no
+internet or external API.
+
+---
+
 ## Setup
 
 ### Prerequisites
