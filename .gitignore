@@ -1,0 +1,14 @@
+# Model weights are not committed -- run tiny-storyteller/download_model.py to fetch them.
+# See NOTICE.md for licensing details.
+*.onnx
+
+# Package zip (built locally, not committed)
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+
